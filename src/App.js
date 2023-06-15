@@ -13,7 +13,7 @@ function App() {
       <p>
       <p>
       It's important to remember that to host the 'real' app some other things need to be in place, and these are...
-      <p>
+      </p>
       <ul>
           <li>Either the CORS problem with NDP has to be resolved, or somehow, the requests to NDP must be run though a proxy, as they are in dev.</li>
           <li>User needs to be using an IP address which NDP has whitelisted</li>
