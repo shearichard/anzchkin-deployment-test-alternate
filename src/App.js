@@ -10,7 +10,7 @@ function App() {
       <h2>Shortcomings</h2>
       <p>
       This app is only meant to demonstrate that a React app, using the device's camera, can be hosted on Github and the camera accessed succesfully.
-      <p>
+      </p>
       <p>
       It's important to remember that to host the 'real' app some other things need to be in place, and these are...
       </p>
